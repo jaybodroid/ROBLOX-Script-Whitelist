@@ -75,6 +75,6 @@ client.on("message", async (message) => {
     }
 });
 
-client.login("OTIyMzYxNDMyOTU4NDQ3NjE2.YcAWBg.fQzB36HjczZsgGI_Gr4h25Ng_Ag");
+client.login("OTIyMzYxNDMyOTU4NDQ3NjE2.YcAWBg.87Tx7XLnaUUknP65gAcjWpdLItc");
 console.clear();
 console.info("Activated.")
